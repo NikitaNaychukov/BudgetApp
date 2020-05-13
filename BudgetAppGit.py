@@ -1,3 +1,4 @@
+# Visit https://developers.google.com/sheets/api to set up your API and proceed afterwards
 from __future__ import print_function
 import pickle
 import os.path
